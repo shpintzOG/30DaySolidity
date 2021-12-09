@@ -1,0 +1,19 @@
+{
+  "name": "30-day-solidity",
+  "version": "1.0.0",
+  "description": "The title says it all this is basically going to be a little challange that I am going to got through to be able to actually learn solidity within this mont, hopefully I end up getting though everything that needs to be done at the same time learn a few things. Not only that be able to explain and understand as well as build a creative style for myself as well.",
+  "main": "index.js",
+  "scripts": {
+    "start": "static-server day-3/public",
+    "dev": "webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "web3": "^1.2.1",
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.4.1"
+  }
+}
